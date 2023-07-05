@@ -1,5 +1,5 @@
 # debezium-custom-masking-for-rdbms
-Debezium maven custom data masking transformation for RDBMS databases
+Debezium maven custom data masking transformation for CDC from RDBMS databases
 
 debezium server transformation settings:
 ```
